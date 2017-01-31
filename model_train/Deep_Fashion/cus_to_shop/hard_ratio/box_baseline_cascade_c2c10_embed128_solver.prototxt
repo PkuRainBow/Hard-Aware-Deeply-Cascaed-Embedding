@@ -1,0 +1,14 @@
+net: "./box_baseline_cascade_c2c10_embed128_deploy.prototxt"
+test_initialization: false
+display: 10
+average_loss: 40
+base_lr: 0.01
+lr_policy: "step"
+stepsize: 20000
+gamma: 0.1
+max_iter: 60000
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 10000
+snapshot_prefix: "../../../../model/box_cus2shop_baseline"
+solver_mode: GPU

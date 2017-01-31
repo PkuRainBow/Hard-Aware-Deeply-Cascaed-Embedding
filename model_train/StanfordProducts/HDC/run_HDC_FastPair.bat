@@ -1,0 +1,1 @@
+"D:\users\v-yuhyua\fromGPU14\Release\caffe.exe" train --solver=./HDC_FastPair_solver.prototxt --weights=../../model/bvlc_googlenet.caffemodel --gpu=0

@@ -1,0 +1,13 @@
+net: "./Hard_deploy.prototxt"
+display: 10
+average_loss: 40
+base_lr: 0.001
+lr_policy: "step"
+stepsize: 10000
+gamma: 0.1
+max_iter: 20000
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 10000
+snapshot_prefix: "../../../model/StanfordCars_Hard"
+solver_mode: GPU

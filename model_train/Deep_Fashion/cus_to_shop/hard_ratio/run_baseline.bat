@@ -1,0 +1,2 @@
+"D:\users\v-yuhyua\fromGPU14\Release_hard_ratio\caffe.exe" train --solver=./baseline_cascade_c2c10_embed128_solver.prototxt ^
+								--weights=../../../../model/bvlc_googlenet.caffemodel --gpu=0
