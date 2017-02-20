@@ -1,6 +1,6 @@
 # Hard-Aware-Deeply-Cascaed-Embedding
 
-*GOOD NEWS !*  We have released the all the codes. Please refer to the project [Hard-Aware-Deeply-Cascaded-Embedding_release](https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release)
+**Good NEWS !**  We have released the all the codes. Please refer to the project [Hard-Aware-Deeply-Cascaded-Embedding_release](https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release)
 
 Yuan Y, Yang K, Zhang C. Hard-Aware Deeply Cascaded Embedding[J]. arXiv preprint arXiv:1611.05720, 2016.
 
